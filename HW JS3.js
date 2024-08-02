@@ -80,3 +80,5 @@
 
 // 8. დაბეჭდეთ სტუდენტის სახელი და ასაკი
 // console.log(student.firstName, student.age)
+
+//status
